@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColDel</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_nav">Navigate</string>
+    <string name="button_done">Done</string>
+    <string name="button_missed">Missed</string>
+
+</resources>
